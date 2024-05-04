@@ -1,0 +1,46 @@
+{
+  "roommates": [
+    {
+      "id": "ca7d4e",
+      "nombre": "Arthur Claire",
+      "debe": 44000,
+      "recibe": 36000
+    },
+    {
+      "id": "aacb3c",
+      "nombre": "Svitlan Yaroviy",
+      "debe": 3000,
+      "recibe": 8000
+    },
+    {
+      "id": "38eb41",
+      "nombre": "Velemir Gonskiy",
+      "debe": 25000,
+      "recibe": 24000
+    },
+    {
+      "id": "8a484f",
+      "nombre": "Anand Gugale",
+      "debe": 32000,
+      "recibe": 20000
+    },
+    {
+      "id": "e38b7f",
+      "nombre": "Justine Slawa",
+      "debe": 48000,
+      "recibe": 19000
+    },
+    {
+      "id": "b3305d",
+      "nombre": "Rose Thomas",
+      "debe": 34000,
+      "recibe": 1000
+    },
+    {
+      "id": "6a8994",
+      "nombre": "Yandel de la Fuente",
+      "debe": 5000,
+      "recibe": 41000
+    }
+  ]
+}

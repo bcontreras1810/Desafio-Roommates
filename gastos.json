@@ -1,0 +1,16 @@
+{
+  "gastos": [
+    {
+      "id": "deeb16",
+      "roommate": "Justine Slawa",
+      "descripcion": "casa",
+      "monto": 12000
+    },
+    {
+      "id": "e188f7",
+      "roommate": "Anand Gugale",
+      "descripcion": "feria",
+      "monto": 20000
+    }
+  ]
+}
